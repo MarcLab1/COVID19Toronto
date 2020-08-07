@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Covid-19 Toronto</string>
+    <string name="title_stats">Stats</string>
+    <string name="title_data">Data</string>
+    <string name="title_chart">Chart</string>
+
+    <string name="number_of_cases">Number of cases in</string>
+    <string name="population">Population of</string>
+
+    <string name="empty_placeholder">" - "</string>
+    <string name="zero">"0"</string>
+    <string name="data_loading_exception_message">Data could not be loaded, something has gone wrong</string>
+
+
+    <!-- Helper Formatting -->
+    <string name="covid_19_cases_in">"COVID-19 cases in "</string>
+    <string name="no_data_to_display">No data to display</string>
+    <string name="space_open_bracket">" ("</string>
+    <string name="close_bracket">)</string>
+    <string name="ninteen_and_younger">"19 and younger - "</string>
+    <string name="twenty_to_twentynine">"20-29 - "</string>
+    <string name="thirty_to_thirtynine">"30-39 - "</string>
+    <string name="fourty_to_fourtynine">"40-49 - "</string>
+    <string name="fifty_to_fiftynine">"50-59 - "</string>
+    <string name="sixty_to_sixtynine">"60-69 - "</string>
+    <string name="seventy_to_seventynine">"70-79 - "</string>
+    <string name="eighty_to_eightynine">"80-89 - "</string>
+    <string name="ninety_plus">"90+ - "</string>
+    <string name="male">"Male - "</string>
+    <string name="female">"Female - "</string>
+    <string name="close_contact">"Close contact - "</string>
+    <string name="outbreak_associated">"Outbreak associated - "</string>
+    <string name="community_contact">"Community contact - "</string>
+    <string name="travel_associated">"Travel associated - "</string>
+    <string name="institutional_contact">"Institutional contact - "</string>
+    <string name="healthcare">"Healthcare - "</string>
+    <string name="space">" "</string>
+    <string name="colon">:</string>
+
+
+    <!-- layout view column headers -->
+    <string name="postal_code">Postal Code</string>
+    <string name="neighbourhood_name">Neighbourhood Name</string>
+    <string name="age_group">Age Group</string>
+    <string name="episode_date">Episode Date</string>
+    <string name="reported_date">Reported Date</string>
+    <string name="source_of_infection">Source of Infection</string>
+
+    <!-- layout view fsa selector -->
+    <string name="postal_code_colon">Postal Code:</string>
+
+    <!-- layout view stats -->
+    <string name="city_of_toronto_population_2016_census_colon">Population in the City of Toronto (2016 Census):</string>
+    <string name="city_of_toronto_covid_19_cases_colon">COVID-19 cases in the City of Toronto (as of Aug 5, 2020):</string>
+    <string name="date_of_earliest_case_colon">Date of earliest case:</string>
+    <string name="date_of_most_recent_case_colon">Date of most recent case:</string>
+    <string name="date_with_the_most_cases_colon">Date with the most cases:</string>
+    <string name="hospitalizations_colon">Hospitalizations:</string>
+    <string name="deaths_colon">Deaths:</string>
+    <string name="source_of_infection_colon">Source of infection:</string>
+    <string name="gender_colon">Gender:</string>
+    <string name="age_group_colon">Age group:</string>
+    <string name="gta_population">2,732,139</string>
+    <string name="number_of_cases_in_postal_code">Number of cases in postal code:</string>
+    <string name="population_of_postal_code">Population of postal code:</string>
+
+
+</resources>

@@ -1,0 +1,818 @@
+[
+ {
+   "FSA": "M1B",
+   "B": "M1B",
+   "C": "Ontario",
+   "E": 66108,
+   "population": 20957,
+   "privateDwellings": 20230
+ },
+ {
+   "FSA": "M1C",
+   "B": "M1C",
+   "C": "Ontario",
+   "E": 35626,
+   "population": 11588,
+   "privateDwellings": 11274
+ },
+ {
+   "FSA": "M1E",
+   "B": "M1E",
+   "C": "Ontario",
+   "E": 46943,
+   "population": 17637,
+   "privateDwellings": 17161
+ },
+ {
+   "FSA": "M1G",
+   "B": "M1G",
+   "C": "Ontario",
+   "E": 29690,
+   "population": 10116,
+   "privateDwellings": 9767
+ },
+ {
+   "FSA": "M1H",
+   "B": "M1H",
+   "C": "Ontario",
+   "E": 24383,
+   "population": 9274,
+   "privateDwellings": 8985
+ },
+ {
+   "FSA": "M1J",
+   "B": "M1J",
+   "C": "Ontario",
+   "E": 36699,
+   "population": 12797,
+   "privateDwellings": 12274
+ },
+ {
+   "FSA": "M1K",
+   "B": "M1K",
+   "C": "Ontario",
+   "E": 48434,
+   "population": 18620,
+   "privateDwellings": 17930
+ },
+ {
+   "FSA": "M1L",
+   "B": "M1L",
+   "C": "Ontario",
+   "E": 35081,
+   "population": 12884,
+   "privateDwellings": 12428
+ },
+ {
+   "FSA": "M1M",
+   "B": "M1M",
+   "C": "Ontario",
+   "E": 22913,
+   "population": 8908,
+   "privateDwellings": 8623
+ },
+ {
+   "FSA": "M1N",
+   "B": "M1N",
+   "C": "Ontario",
+   "E": 22136,
+   "population": 9535,
+   "privateDwellings": 9095
+ },
+ {
+   "FSA": "M1P",
+   "B": "M1P",
+   "C": "Ontario",
+   "E": 45571,
+   "population": 17129,
+   "privateDwellings": 16540
+ },
+ {
+   "FSA": "M1R",
+   "B": "M1R",
+   "C": "Ontario",
+   "E": 29858,
+   "population": 11141,
+   "privateDwellings": 10767
+ },
+ {
+   "FSA": "M1S",
+   "B": "M1S",
+   "C": "Ontario",
+   "E": 37769,
+   "population": 13195,
+   "privateDwellings": 12644
+ },
+ {
+   "FSA": "M1T",
+   "B": "M1T",
+   "C": "Ontario",
+   "E": 34588,
+   "population": 13394,
+   "privateDwellings": 12949
+ },
+ {
+   "FSA": "M1V",
+   "B": "M1V",
+   "C": "Ontario",
+   "E": 54680,
+   "population": 16449,
+   "privateDwellings": 16092
+ },
+ {
+   "FSA": "M1W",
+   "B": "M1W",
+   "C": "Ontario",
+   "E": 48471,
+   "population": 16597,
+   "privateDwellings": 16173
+ },
+ {
+   "FSA": "M1X",
+   "B": "M1X",
+   "C": "Ontario",
+   "E": 15097,
+   "population": 3739,
+   "privateDwellings": 3649
+ },
+ {
+   "FSA": "M2H",
+   "B": "M2H",
+   "C": "Ontario",
+   "E": 24497,
+   "population": 9093,
+   "privateDwellings": 8700
+ },
+ {
+   "FSA": "M2J",
+   "B": "M2J",
+   "C": "Ontario",
+   "E": 58293,
+   "population": 22524,
+   "privateDwellings": 21876
+ },
+ {
+   "FSA": "M2K",
+   "B": "M2K",
+   "C": "Ontario",
+   "E": 23852,
+   "population": 11147,
+   "privateDwellings": 10540
+ },
+ {
+   "FSA": "M2L",
+   "B": "M2L",
+   "C": "Ontario",
+   "E": 11717,
+   "population": 4154,
+   "privateDwellings": 3974
+ },
+ {
+   "FSA": "M2M",
+   "B": "M2M",
+   "C": "Ontario",
+   "E": 32320,
+   "population": 13086,
+   "privateDwellings": 12399
+ },
+ {
+   "FSA": "M2N",
+   "B": "M2N",
+   "C": "Ontario",
+   "E": 75897,
+   "population": 36123,
+   "privateDwellings": 33765
+ },
+ {
+   "FSA": "M2P",
+   "B": "M2P",
+   "C": "Ontario",
+   "E": 7843,
+   "population": 3155,
+   "privateDwellings": 3020
+ },
+ {
+   "FSA": "M2R",
+   "B": "M2R",
+   "C": "Ontario",
+   "E": 40792,
+   "population": 16062,
+   "privateDwellings": 15575
+ },
+ {
+   "FSA": "M3A",
+   "B": "M3A",
+   "C": "Ontario",
+   "E": 34615,
+   "population": 13847,
+   "privateDwellings": 13241
+ },
+ {
+   "FSA": "M3B",
+   "B": "M3B",
+   "C": "Ontario",
+   "E": 13324,
+   "population": 5193,
+   "privateDwellings": 5001
+ },
+ {
+   "FSA": "M3C",
+   "B": "M3C",
+   "C": "Ontario",
+   "E": 39153,
+   "population": 16199,
+   "privateDwellings": 15851
+ },
+ {
+   "FSA": "M3H",
+   "B": "M3H",
+   "C": "Ontario",
+   "E": 37011,
+   "population": 14921,
+   "privateDwellings": 14226
+ },
+ {
+   "FSA": "M3J",
+   "B": "M3J",
+   "C": "Ontario",
+   "E": 25473,
+   "population": 10196,
+   "privateDwellings": 9407
+ },
+ {
+   "FSA": "M3K",
+   "B": "M3K",
+   "C": "Ontario",
+   "E": 5997,
+   "population": 2290,
+   "privateDwellings": 2208
+ },
+ {
+   "FSA": "M3L",
+   "B": "M3L",
+   "C": "Ontario",
+   "E": 17339,
+   "population": 6656,
+   "privateDwellings": 5824
+ },
+ {
+   "FSA": "M3M",
+   "B": "M3M",
+   "C": "Ontario",
+   "E": 24046,
+   "population": 9706,
+   "privateDwellings": 9234
+ },
+ {
+   "FSA": "M3N",
+   "B": "M3N",
+   "C": "Ontario",
+   "E": 41958,
+   "population": 14523,
+   "privateDwellings": 13841
+ },
+ {
+   "FSA": "M4A",
+   "B": "M4A",
+   "C": "Ontario",
+   "E": 14443,
+   "population": 6299,
+   "privateDwellings": 6170
+ },
+ {
+   "FSA": "M4B",
+   "B": "M4B",
+   "C": "Ontario",
+   "E": 18628,
+   "population": 7872,
+   "privateDwellings": 7599
+ },
+ {
+   "FSA": "M4C",
+   "B": "M4C",
+   "C": "Ontario",
+   "E": 46866,
+   "population": 20178,
+   "privateDwellings": 19431
+ },
+ {
+   "FSA": "M4E",
+   "B": "M4E",
+   "C": "Ontario",
+   "E": 25044,
+   "population": 11284,
+   "privateDwellings": 10784
+ },
+ {
+   "FSA": "M4G",
+   "B": "M4G",
+   "C": "Ontario",
+   "E": 19076,
+   "population": 8108,
+   "privateDwellings": 7731
+ },
+ {
+   "FSA": "M4H",
+   "B": "M4H",
+   "C": "Ontario",
+   "E": 19688,
+   "population": 6475,
+   "privateDwellings": 6415
+ },
+ {
+   "FSA": "M4J",
+   "B": "M4J",
+   "C": "Ontario",
+   "E": 35738,
+   "population": 15312,
+   "privateDwellings": 14754
+ },
+ {
+   "FSA": "M4K",
+   "B": "M4K",
+   "C": "Ontario",
+   "E": 31583,
+   "population": 15198,
+   "privateDwellings": 14556
+ },
+ {
+   "FSA": "M4L",
+   "B": "M4L",
+   "C": "Ontario",
+   "E": 32640,
+   "population": 14634,
+   "privateDwellings": 13901
+ },
+ {
+   "FSA": "M4M",
+   "B": "M4M",
+   "C": "Ontario",
+   "E": 24689,
+   "population": 11393,
+   "privateDwellings": 10787
+ },
+ {
+   "FSA": "M4N",
+   "B": "M4N",
+   "C": "Ontario",
+   "E": 15330,
+   "population": 6497,
+   "privateDwellings": 6190
+ },
+ {
+   "FSA": "M4P",
+   "B": "M4P",
+   "C": "Ontario",
+   "E": 20039,
+   "population": 12207,
+   "privateDwellings": 11487
+ },
+ {
+   "FSA": "M4R",
+   "B": "M4R",
+   "C": "Ontario",
+   "E": 11394,
+   "population": 5332,
+   "privateDwellings": 5036
+ },
+ {
+   "FSA": "M4S",
+   "B": "M4S",
+   "C": "Ontario",
+   "E": 26506,
+   "population": 14011,
+   "privateDwellings": 13397
+ },
+ {
+   "FSA": "M4T",
+   "B": "M4T",
+   "C": "Ontario",
+   "E": 10463,
+   "population": 5499,
+   "privateDwellings": 5212
+ },
+ {
+   "FSA": "M4V",
+   "B": "M4V",
+   "C": "Ontario",
+   "E": 18241,
+   "population": 10308,
+   "privateDwellings": 9666
+ },
+ {
+   "FSA": "M4W",
+   "B": "M4W",
+   "C": "Ontario",
+   "E": 14561,
+   "population": 7918,
+   "privateDwellings": 7267
+ },
+ {
+   "FSA": "M4X",
+   "B": "M4X",
+   "C": "Ontario",
+   "E": 20822,
+   "population": 10809,
+   "privateDwellings": 10306
+ },
+ {
+   "FSA": "M4Y",
+   "B": "M4Y",
+   "C": "Ontario",
+   "E": 30472,
+   "population": 21975,
+   "privateDwellings": 19665
+ },
+ {
+   "FSA": "M5A",
+   "B": "M5A",
+   "C": "Ontario",
+   "E": 41078,
+   "population": 24186,
+   "privateDwellings": 22333
+ },
+ {
+   "FSA": "M5B",
+   "B": "M5B",
+   "C": "Ontario",
+   "E": 12785,
+   "population": 8249,
+   "privateDwellings": 7058
+ },
+ {
+   "FSA": "M5C",
+   "B": "M5C",
+   "C": "Ontario",
+   "E": 2951,
+   "population": 1879,
+   "privateDwellings": 1721
+ },
+ {
+   "FSA": "M5E",
+   "B": "M5E",
+   "C": "Ontario",
+   "E": 9118,
+   "population": 6232,
+   "privateDwellings": 5682
+ },
+ {
+   "FSA": "M5G",
+   "B": "M5G",
+   "C": "Ontario",
+   "E": 8423,
+   "population": 5876,
+   "privateDwellings": 4929
+ },
+ {
+   "FSA": "M5H",
+   "B": "M5H",
+   "C": "Ontario",
+   "E": 2005,
+   "population": 1718,
+   "privateDwellings": 1243
+ },
+ {
+   "FSA": "M5J",
+   "B": "M5J",
+   "C": "Ontario",
+   "E": 14545,
+   "population": 9913,
+   "privateDwellings": 8649
+ },
+ {
+   "FSA": "M5K",
+   "B": "M5K",
+   "C": "Ontario",
+   "E": 0,
+   "population": 1,
+   "privateDwellings": 1
+ },
+ {
+   "FSA": "M5L",
+   "B": "M5L",
+   "C": "Ontario",
+   "E": 0,
+   "population": 1,
+   "privateDwellings": 1
+ },
+ {
+   "FSA": "M5M",
+   "B": "M5M",
+   "C": "Ontario",
+   "E": 25975,
+   "population": 9824,
+   "privateDwellings": 9408
+ },
+ {
+   "FSA": "M5N",
+   "B": "M5N",
+   "C": "Ontario",
+   "E": 16610,
+   "population": 6889,
+   "privateDwellings": 6486
+ },
+ {
+   "FSA": "M5P",
+   "B": "M5P",
+   "C": "Ontario",
+   "E": 19423,
+   "population": 10078,
+   "privateDwellings": 9350
+ },
+ {
+   "FSA": "M5R",
+   "B": "M5R",
+   "C": "Ontario",
+   "E": 26496,
+   "population": 15786,
+   "privateDwellings": 13953
+ },
+ {
+   "FSA": "M5S",
+   "B": "M5S",
+   "C": "Ontario",
+   "E": 15372,
+   "population": 9380,
+   "privateDwellings": 7878
+ },
+ {
+   "FSA": "M5T",
+   "B": "M5T",
+   "C": "Ontario",
+   "E": 17748,
+   "population": 9480,
+   "privateDwellings": 8537
+ },
+ {
+   "FSA": "M5V",
+   "B": "M5V",
+   "C": "Ontario",
+   "E": 49195,
+   "population": 35058,
+   "privateDwellings": 30726
+ },
+ {
+   "FSA": "M5W",
+   "B": "M5W",
+   "C": "Ontario",
+   "E": 15,
+   "population": 11,
+   "privateDwellings": 9
+ },
+ {
+   "FSA": "M5X",
+   "B": "M5X",
+   "C": "Ontario",
+   "E": 10,
+   "population": 5,
+   "privateDwellings": 3
+ },
+ {
+   "FSA": "M6A",
+   "B": "M6A",
+   "C": "Ontario",
+   "E": 21048,
+   "population": 8751,
+   "privateDwellings": 8074
+ },
+ {
+   "FSA": "M6B",
+   "B": "M6B",
+   "C": "Ontario",
+   "E": 28522,
+   "population": 11375,
+   "privateDwellings": 10728
+ },
+ {
+   "FSA": "M6C",
+   "B": "M6C",
+   "C": "Ontario",
+   "E": 24596,
+   "population": 11043,
+   "privateDwellings": 10484
+ },
+ {
+   "FSA": "M6E",
+   "B": "M6E",
+   "C": "Ontario",
+   "E": 38041,
+   "population": 15809,
+   "privateDwellings": 14721
+ },
+ {
+   "FSA": "M6G",
+   "B": "M6G",
+   "C": "Ontario",
+   "E": 32086,
+   "population": 14312,
+   "privateDwellings": 13424
+ },
+ {
+   "FSA": "M6H",
+   "B": "M6H",
+   "C": "Ontario",
+   "E": 44950,
+   "population": 20573,
+   "privateDwellings": 19209
+ },
+ {
+   "FSA": "M6J",
+   "B": "M6J",
+   "C": "Ontario",
+   "E": 32684,
+   "population": 16333,
+   "privateDwellings": 15063
+ },
+ {
+   "FSA": "M6K",
+   "B": "M6K",
+   "C": "Ontario",
+   "E": 40957,
+   "population": 23344,
+   "privateDwellings": 22023
+ },
+ {
+   "FSA": "M6L",
+   "B": "M6L",
+   "C": "Ontario",
+   "E": 20616,
+   "population": 7611,
+   "privateDwellings": 7387
+ },
+ {
+   "FSA": "M6M",
+   "B": "M6M",
+   "C": "Ontario",
+   "E": 42434,
+   "population": 16799,
+   "privateDwellings": 16020
+ },
+ {
+   "FSA": "M6N",
+   "B": "M6N",
+   "C": "Ontario",
+   "E": 41243,
+   "population": 17239,
+   "privateDwellings": 16250
+ },
+ {
+   "FSA": "M6P",
+   "B": "M6P",
+   "C": "Ontario",
+   "E": 40035,
+   "population": 19924,
+   "privateDwellings": 18972
+ },
+ {
+   "FSA": "M6R",
+   "B": "M6R",
+   "C": "Ontario",
+   "E": 19857,
+   "population": 9205,
+   "privateDwellings": 8598
+ },
+ {
+   "FSA": "M6S",
+   "B": "M6S",
+   "C": "Ontario",
+   "E": 34299,
+   "population": 15261,
+   "privateDwellings": 14655
+ },
+ {
+   "FSA": "M7A",
+   "B": "M7A",
+   "C": "Ontario",
+   "E": 10,
+   "population": 6,
+   "privateDwellings": 5
+ },
+ {
+   "FSA": "M7Y",
+   "B": "M7Y",
+   "C": "Ontario",
+   "E": 10,
+   "population": 7,
+   "privateDwellings": 7
+ },
+ {
+   "FSA": "M8V",
+   "B": "M8V",
+   "C": "Ontario",
+   "E": 37975,
+   "population": 22268,
+   "privateDwellings": 19601
+ },
+ {
+   "FSA": "M8W",
+   "B": "M8W",
+   "C": "Ontario",
+   "E": 20674,
+   "population": 9161,
+   "privateDwellings": 8770
+ },
+ {
+   "FSA": "M8X",
+   "B": "M8X",
+   "C": "Ontario",
+   "E": 10787,
+   "population": 4680,
+   "privateDwellings": 4523
+ },
+ {
+   "FSA": "M8Y",
+   "B": "M8Y",
+   "C": "Ontario",
+   "E": 21299,
+   "population": 10485,
+   "privateDwellings": 9782
+ },
+ {
+   "FSA": "M8Z",
+   "B": "M8Z",
+   "C": "Ontario",
+   "E": 17038,
+   "population": 7046,
+   "privateDwellings": 6782
+ },
+ {
+   "FSA": "M9A",
+   "B": "M9A",
+   "C": "Ontario",
+   "E": 35594,
+   "population": 15730,
+   "privateDwellings": 15119
+ },
+ {
+   "FSA": "M9B",
+   "B": "M9B",
+   "C": "Ontario",
+   "E": 32400,
+   "population": 12617,
+   "privateDwellings": 12292
+ },
+ {
+   "FSA": "M9C",
+   "B": "M9C",
+   "C": "Ontario",
+   "E": 38291,
+   "population": 15402,
+   "privateDwellings": 15111
+ },
+ {
+   "FSA": "M9L",
+   "B": "M9L",
+   "C": "Ontario",
+   "E": 11950,
+   "population": 4122,
+   "privateDwellings": 3746
+ },
+ {
+   "FSA": "M9M",
+   "B": "M9M",
+   "C": "Ontario",
+   "E": 22263,
+   "population": 7757,
+   "privateDwellings": 7310
+ },
+ {
+   "FSA": "M9N",
+   "B": "M9N",
+   "C": "Ontario",
+   "E": 25074,
+   "population": 10713,
+   "privateDwellings": 10171
+ },
+ {
+   "FSA": "M9P",
+   "B": "M9P",
+   "C": "Ontario",
+   "E": 20874,
+   "population": 8198,
+   "privateDwellings": 7906
+ },
+ {
+   "FSA": "M9R",
+   "B": "M9R",
+   "C": "Ontario",
+   "E": 33743,
+   "population": 12755,
+   "privateDwellings": 12336
+ },
+ {
+   "FSA": "M9V",
+   "B": "M9V",
+   "C": "Ontario",
+   "E": 55959,
+   "population": 17590,
+   "privateDwellings": 16808
+ },
+ {
+   "FSA": "M9W",
+   "B": "M9W",
+   "C": "Ontario",
+   "E": 40684,
+   "population": 14487,
+   "privateDwellings": 13704
+ }
+]
